@@ -1,4 +1,4 @@
-# Kaylune-Battle-System
+# Kaylune-Tetris
 
 A Tetris-Like game to be played by users of Kaylune.com in order to earn Kwin. 
 
